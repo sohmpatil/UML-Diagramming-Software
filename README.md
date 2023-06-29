@@ -12,3 +12,8 @@
 ### On the left side pane, basic code will be generated according to the diagram.
 ### The third button on the menu bar can be used to create a new diagram from the code that can be pasted in the left pane.
 ### The logger on the bottom left shows all the activities going on at the time while working on the software.
+
+###
+###
+## UML Class Diagram of Project (Inception🙃)
+![Alt text](Class%20Diagram.png)
